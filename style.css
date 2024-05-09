@@ -544,3 +544,8 @@ h3 a:hover {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.register a {
+  font-size: 2em;
+  color: #990073; 
+}	
